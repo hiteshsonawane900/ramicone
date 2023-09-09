@@ -1,0 +1,40 @@
+.btn{
+    padding:20px 42%;
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* border: 2px solid black; */
+    width: 80%;
+    /* margin: auto;
+     */
+  }
+  
+  .btn button{
+      padding: 0px 20px;
+      border-radius: 15px;
+  
+  }
+  
+  
+  @media only screen and (max-width: 400px) {
+    .btn{
+      padding:20px 30%;
+      display: grid;
+      /* justify-content: space-evenly; */
+      /* border: 2px solid black; */
+      width: 80%;
+      /* margin: auto;
+       */
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .btn{
+      padding:20px 37%;
+      display: flex;
+      /* justify-content: space-evenly; */
+      /* border: 2px solid black; */
+      width: 80%;
+      /* margin: auto;
+       */
+    }
+  }

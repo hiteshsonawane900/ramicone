@@ -1,0 +1,33 @@
+#CardMain{
+    
+}
+
+
+
+.Card{
+    /* background: red; */
+    /* width: 500px; */
+    /* border: 1px solid yellow; */
+    cursor: pointer;
+    text-align: left;
+}
+
+
+.Card img{
+    width: 100%;
+    border-radius: 20px;
+    height: 300px;
+}
+
+.Card div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Card p{
+    margin-top: -10px;
+}
+
+.Card p,h4{
+    padding: 0px 10px;
+}

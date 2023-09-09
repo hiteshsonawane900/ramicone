@@ -1,0 +1,98 @@
+.Container{
+    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 90%;
+    gap: 25px;
+    margin: auto;
+}
+
+.filterbtn{
+    display: flex;
+   
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    /* border: 1px solid red; */
+    margin-bottom: 50px;
+}
+
+.filterbtn button{
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.filterbtn button:hover{
+    
+    background: rgb(216, 214, 214);
+}
+
+
+/* <------------ Media Query For phone--------------------> */
+
+@media only screen and (max-width: 768px) {
+    .Container {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        width: 70%;
+        gap: 25px;
+        margin: auto;
+    }
+  }
+
+  /* <------------ Media Query For Tab Container --------------------> */
+  @media only screen and (max-width: 400px) {
+    .Container {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        width: 70%;
+        gap: 25px;
+        margin: auto;
+    }
+  }
+
+
+  /* <------------------------ Filter Button  Media Query Mobile -------------------> */
+
+  @media only screen and (max-width: 768px) {
+    .filterbtn{
+        display: flex;
+      
+        /* justify-content: space-between; */
+        width: 70%;
+        margin: auto;
+        padding: 20px;
+        /* border: 1px solid red; */
+        margin-bottom: 50px;
+    }
+  }
+
+  /* <------------------------ Filter Button  Media Query Tab -------------------> */
+  @media only screen and (max-width: 400px) {
+    .filterbtn{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        /* justify-content: space-between; */
+        width: 100%;
+        margin: auto;
+        padding: 20px;
+        /* border: 1px solid red; */
+        margin-bottom: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 400px) {
+    .filterbtn button{
+        padding: 10px 10px;
+        border-radius: 20px;
+        margin-bottom: 10px;
+        border: none;
+        cursor: pointer;
+        font-size: 15px;
+      
+    }
+  }

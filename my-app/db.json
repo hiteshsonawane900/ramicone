@@ -1,0 +1,1193 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "ProductTitle":"PIPE, FITTINGS & VALVES",
+      "ProductImage":"https://cdn.pixabay.com/photo/2013/07/18/20/25/valve-164969_1280.jpg",
+    "Details":[{
+      "heading":"METTALIC PIPES",
+      "Image":"https://img.freepik.com/premium-photo/different-metal-rolled-products-stainless-steel-profiles-tubes-warehouse-background_708636-878.jpg",
+      "type":[
+        "MS",
+        "GI",
+        "CI",
+        "SS304",
+        "SS304L",
+        "SS316",
+        "SS316L",
+        "COPPER",
+       "ALLOY STEEL"
+      ]},{
+      "heading":"NON METTALIC PIPES",
+      "Image":"https://images.jdmagicbox.com/quickquotes/images_main/agricultural-pvc-pipes-110-mm-386418083-n2nnp.jpeg",
+      "type":[
+       " PVC",
+        "CPVC",
+        "PP",
+        "PVDF"
+      ]},{
+      "heading":"PIPE FITTINGS",
+      "Image":"https://images.jdmagicbox.com/quickquotes/images_main/oshwin-pipe-fitting-28-07-2020-883-185845380-uwcsf.jpg",
+      "type":[
+       " ELBOW",
+        "EQUAL TEE",
+       " UNEQUAL TEE",
+        "BEND",
+        "SOCKETS",
+        "NIPPLES UNION",
+        "COUPLING",
+        "REDUCERS CLAMPS",
+        "FLANGES",
+        "ADAPOTORS BUSH",
+        "END CAPS",
+       " PLUGS"
+      ]},{
+      "heading":"METALLIC AND NON-METALLIC VALVES",
+      "Image":"https://fct-me.com/wp-content/uploads/2019/06/VALVES.jpg",
+      "type":[
+        "Ball Valve",
+        "Gate Valve",
+        "Globe Valve",
+       " NRV",
+        "CHECK VALVE",
+       " STEAM Valve",
+        "Balancing Valve",
+        "Needle Valve",
+        "Strainers"
+      ]
+    }]
+    },
+    {
+      "id": 2,
+      "ProductTitle":"FASTENERS",
+      "ProductImage":"https://cdn.pixabay.com/photo/2016/12/21/23/03/screw-1924174_1280.jpg",
+      "Details":[{
+        "heading":"SCREWS & BOLTS",
+        "Image":"https://i.ebayimg.com/images/g/AQMAAOSwfvJiYF9e/s-l1200.webp",
+        "type":[
+          "Socket Set Screws",
+          "Socket Head Cap Screws",
+          "Hex Head Screws",
+          "Countersunk Head Cap",
+          "Structural Bolts",
+          "Button Head Screws",
+          "Head Shoulder Screws",
+          "Low Head Cap Screws",
+          "Durlok Bolts"
+        ]},{
+        "heading":"ANCHORS",
+        "Image":"https://www.vihasteel.com/images/stainless-steel-high-performance-anchor-bolts.jpg",
+        "type":[
+         " Bolt Anchors",
+          "Anchor Accessories",
+          "Wedge Anchors",
+          "Drop In Anchors"
+        ]},{
+        "heading":"WASHERS",
+        "Image":"https://c1.wallpaperflare.com/preview/635/493/302/washers-split-washers-split-rings-split-lock-washers.jpg",
+        "type":[
+         " Spring Washers",
+          "Hardened Washers",
+         " Structural Washers",
+          "Hardened & Tempered Washers",
+          "Durlok Washers",
+          "C-Washers"
+        ]},{
+        "heading":"NUTS",
+        "Image":"https://c1.wallpaperflare.com/preview/352/865/267/nuts-nuts-and-bolts-screw-steel.jpg",
+        "type":[
+          "Hex Nuts",
+          "T-Nuts",
+          "Lock Nut",
+         " Flange Nut",
+          "Coupling Nut",
+         " Wing Nut"
+        ]
+      },
+      {
+        "heading":"BOLTS",
+        "Image":"https://5.imimg.com/data5/SELLER/Default/2021/3/UA/CM/QD/109247937/metal-nut-bolt.jpg",
+        "type":[
+          "Clamps",
+          "Pins",
+          "Bolts",
+         " Flange Nut",
+          "Rivets"
+        ]
+      }
+    ]
+    },
+    {
+      "id": 3,
+      "ProductTitle":"FIRE SAFETY & EQUIPMENTS",
+      "ProductImage":"https://ehs.uci.edu/fire-safety/_img/fire-safety-equipment.jpeg",
+      "Details":[{
+        "heading":"FIRE EXTINGUISHERS",
+        "Image":"https://damiaglobalservices.com/wp-content/uploads/2022/12/Fire-Extinguisher-Services.jpg",
+        "type":[
+          "ABC POWDER FIRE EXTINGUISHER",
+          "CARBON DIOXIDE FIRE EXTINGUISHER",
+          "WET CHEMICAL FIRE EXTINGUISHER",
+          "FOAM FIRE EXTINGUISHER",
+          " WATER MIST FIRE EXTINGUISHER",
+          "CLEAN AGENT FIRE EXTINGUISHER"
+        ]},{
+        "heading":"FIRE SPRINKLER",
+        "Image":"https://www.nfpa.org/-/media/Images/Blog-Images/Blog-Post-Attachments/NFPA-Today/Sprinkler-Hero.ashx",
+        "type":[
+          "PENDANT TYPE SPRINKLER",
+          "UPRIGHT TYPE SPRINKLER",
+         "SIDE WALL TYPE SPRINKLER",
+          "CONCEALED TYPE SPRINKLER"
+        ]},{
+        "heading":"FIRE SUPPRESSION SYSTEMS",
+        "Image":"https://damiaglobalservices.com/wp-content/uploads/2022/10/FIRE-SUPPRESSION-SYSTEMS.jpg",
+        "type":[
+          "CLEAN AGENT SUPPRESSSION SYSTEMS",
+          "CLEAN AGENT KITCHEN SUPPRESSION SYSTEM",
+          "CO2 SUPPRESSION SYSTEM"
+        ]}]
+    },
+    {
+      "id": 4,
+      "ProductTitle":"CUTTING TOOLS",
+      "ProductImage":"https://www.cgtech.co.in/media/k2/items/cache/fff4548682445ceca36c12620f894d26_XL.jpg",
+      "Details":[{
+        "heading":"DRILL BITS & ACCESSORIES",
+        "Image":"https://c0.wallpaperflare.com/preview/766/275/593/drill-bits-drilling-heads-drills-power-tools.jpg",
+        "type":[
+          "Parallel Shank Drills",
+          "Centre Drills",
+          "Drill Chucks",
+          "Shank Slot Drills",
+          "Drill Sleeves",
+          "Hammer Drill Bits",
+          "Taper Shank Drills",
+         " Drill Chuck Arbors",
+          "Carbide Drill Bits"
+        ]},{
+        "heading":"MILLING CUTTERS & TOOLS",
+        "Image":"https://fractory.com/wp-content/uploads/2020/02/Milling-tools-and-cutters.jpg",
+        "type":[
+         " Side & Face Cutters",
+          "Cylindrical Cutters",
+         " Reamers",
+          "Keyslot Cutters",
+          "End Mills",
+         " Annular Cutters"
+        ]},{
+        "heading":"PLANES & SHAPING TOOLS",
+        "Image":"https://engineeringlearn.com/wp-content/uploads/2021/11/Planes-Woodworking.jpg",
+        "type":[
+          "Jack Planes",
+          "Block Planes"
+        ]},{
+        "heading":"HOLESAWS",
+        "Image":"https://3.imimg.com/data3/VA/TK/MY-2078527/carbide-tipped-holesaws.jpg",
+        "type":[
+          "Bimetal Hole Saws",
+          "Holesaw Accessories",
+          "Holesaw Kits"
+        ]
+      },{
+        "heading":"DISCS & WHEELS",
+        "Image":"https://rukminim2.flixcart.com/image/850/1000/kobspe80/rotary-bit-set/z/y/s/32-pcs-set-cutting-discs-for-rotary-tool-diamond-metal-wood-original-imag2tcczybbznkz.jpeg?q=90",
+        "type":[
+          "Chop Saw Cutting Wheels",
+          "Cut Off Wheels",
+          "Depressed Centre Wheels",
+         " Flap Discs"
+        ]
+      },{
+        "heading":"MACHINING ACCESSORIES",
+        "Image":"https://3.imimg.com/data3/KE/GO/MY-5883054/lathe-machine-accessories-500x500.jpg",
+        "type":[
+          "Side Lock Holders",
+          "Pull Stud Bolts",
+          "Turret Sockets",
+          "Machining Chucks"
+        ]
+      },{
+        "heading":"TURNING TOOLS",
+        "Image":"https://www.travers.com/media/catalog/product/2/2/22-501-101.jpg",
+        "type":[
+          "Boring Bars",
+          "Tool Holders",
+          "Cranked Knife Tools",
+         " Round Nose Turning Tools"
+        ]
+      }]
+    },
+    {
+      "id": 5,
+      "ProductTitle":"POWER & HANDTOOLS",
+      "ProductImage":"https://www.futurebridge.com/wp-content/uploads/2021/09/shutterstock_1239948208-powertools-banner_996x400.png",
+      "Details":[{
+        "heading":"DRILL MACHINES",
+        "Image":"https://img.etimg.com/thumb/width-1200,height-900,imgsize-45390,resizemode-75,msid-100801629/top-trending-products/home-improvement/best-makita-drill-machine-in-india-to-use-on-your-walls.jpg",
+        "type":[
+          "Rotary Drills",
+          "Impact Drills",
+          "Hammer Drills",
+          "Drill Press",
+          "Bench Drills",
+          "Tapping Machine",
+          "Magnetic Drills",
+          "Milling Cum Drilling Machine"
+        ]},{
+        "heading":"BLOWERS & HEAT GUNS",
+        "Image":"https://m.media-amazon.com/images/I/41rU5GXtZ1L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREEANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA11%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+        "type":[
+          "Air Blowers",
+          "Heat Guns"
+        ]},{
+        "heading":"GRINDERS",
+        "Image":"https://www.liontoolsmart.com/cdn/shop/products/BOSCH-ANGLE-GRINDER-GWS900-100-4-INCH-900-W-1.jpg?v=1610363355",
+        "type":[
+          "Angle Grinders",
+          "Die Grinders",
+          "Concrete Grinders",
+          "Bench Grinders",
+          "Wall Chasers",
+          "Straight Grinders",
+          "Shaft Grinders",
+          "Grinding Machines",
+          "Hand Grinders"
+        ]},{
+        "heading":"POWER TOOLS COMBO KITS",
+        "Image":"https://ae04.alicdn.com/kf/Sdec24e1068c94b3dbd78e2b3e31baeeeG.jpg",
+        "type":[
+          "Power Tools Kit"
+        ]
+      },{
+        "heading":"CUTTERS",
+        "Image":"https://toolsindia.in/wp-content/uploads/2020/03/gdc-120_dyn.jpg",
+        "type":[
+         " Stone Cutting Machines",
+          "Angle Cutters",
+          "Nibblers",
+          "Shears",
+          "Power Tool Kits",
+          "Power Saws",
+          "Jigsaws",
+          "Cut Off Machines",
+          "Circular Saws",
+          "Band Saws",
+          "Mitre Saws",
+          "Table Saws",
+          "Reciprocating Saws"
+        ]
+      },{
+        "heading":"POWER TOOL ACCESSORIES",
+        "Image":"https://www.homestratosphere.com/wp-content/uploads/2022/08/power-tools-accessories-layout-11042022.jpg",
+        "type":[
+         " Power Tool Attachments",
+          "Drill Bit Sets",
+          "Circular Saw Blades",
+         " Stands",
+          "SDS Bits & Chisel",
+          "Jigsaw Blades",
+          "Power Tool Stands",
+          "Wheel Brushes",
+        "  Chain saw Blades & Accessories",
+          "Bandsaw Blades",
+          "Flexible Shaft"
+        ]
+      },{
+        "heading":"SANDERS & POLISHERS",
+        "Image":"https://motor1.jppadmin.com/wp-content/uploads/sites/14/2022/08/m1_orbital_thumbnail-1024x576.jpg",
+        "type":[
+          "Planers",
+          "Power Routers",
+          "Orbital Sanders",
+          "Polishers",
+          "Belt Sanders",
+          "Metal Shears"
+        ]
+      },{
+        "heading":"CORDLESS POWER TOOLS",
+        "Image":"https://i0.wp.com/toolguyd.com/blog/wp-content/uploads/2020/10/Craftsman-V20-4pc-Cordless-Power-Tool-Combo-Kit.jpg?resize=600%2C372&ssl=1",
+        "type":[
+          "Cordless Drill Drivers",
+          "Cordless Impact Wrenches",
+          "Cordless Angle Grinders",
+          "Cordless Cleaners",
+         " Cordless Saws & Cutters",
+          "Radio Charger"
+        ]
+      },{
+        "heading":"ELECTRIC HAMMERS",
+        "Image":"https://images.jdmagicbox.com/quickquotes/images_main/ideal-demolition-hammer-id-hm810t-2018885315-42gah562.jpg",
+        "type":[
+          "Demolition Hammers",
+          "Combination Hammers",
+          "Rotary Hammers"
+        ]
+      },{
+        "heading":"SCREWDRIVERS & NUT DRIVERS",
+        "Image":"https://www.gearwrench.com/sites/gearwrench/files/styles/product_medium/public/pim_images/GW_80066H_IMG_ENV_01.jpg?itok=ZYgJ8J9y",
+        "type":[
+          "Screwdriver Sets",
+          "Line Testers",
+          "Two In One Screwdriver",
+          "Slotted Screwdriver",
+          "Philip Head Screwdriver",
+          "Torx Head Screwdriver",
+         " Screwdriver Bits",
+          "Stubby Screwdriver",
+          "Precision Screwdriver",
+          "Nut Drivers"
+        ]
+      },{
+        "heading":"SPANNERS",
+        "Image":"https://miro.medium.com/v2/resize:fit:800/0*Pn4RyQ5HtzaohWSG.jpg",
+        "type":[
+          "Spanners Set",
+          "Double Open End Spanners",
+          "Ring Spanners",
+          "T Spanners",
+         " Combination Spanners",
+          "Box Spanners",
+          "Single Open End Spanners",
+          "Other Spanners",
+          "L Spanners"
+        ]
+      },{
+        "heading":"MACHINIST FILES",
+        "Image":"https://toolsplanet.in/cdn/shop/products/JKFILESHalf-Round-Machinist-withHandleTOOLSPLANET.jpg?v=1676021541&width=1445",
+        "type":[
+          "Flat Files",
+          "Half Round Files",
+          "Round Files",
+          "Hand Files",
+          "Knife Files",
+         " Pillar Files",
+          "Saw Files",
+          "Square Files",
+         " Three Square Files",
+          "Warding Files"
+        ]
+      },{
+        "heading":"PROFESSIONAL KITS",
+        "Image":"https://5.imimg.com/data5/ANDROID/Default/2022/5/BX/NK/LM/1102370/product-jpeg.jpg",
+        "type":[
+          "DIY Kits",
+          "Electrician Tool Kits",
+          "Universal Tool Kits"
+        ]
+      },{
+        "heading":"PUNCHES",
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVA3NRuFtSEizarV_MID4eZ25I9EXNebC_3w&usqp=CAU",
+        "type":[
+         " Number & Letter Punches",
+          "Centre Punches",
+         " Pin Punches",
+          "Drift Punches"
+        ]
+      }]
+    },
+    {
+      "id": 6,
+      "ProductTitle":"PUMPS,MOTOR AND ELECTRICAL PRODUCT",
+      "ProductImage":"https://upload.wikimedia.org/wikipedia/commons/2/27/Innsbruck-Hydrosnow-model_pump_MPE_%28Mehrstufenpumpe%29-01ASD.jpg",
+      "Details":[{
+        "heading":"PUMPS",
+        "Image":"https://e0.pxfuel.com/wallpapers/533/189/desktop-wallpaper-awesome-water-pumps-and-their-use-at-domestic-level-industrial-pumps-water-pump-motor-water-pumps.jpg",
+        "type":[
+            "Centrifugal Pumps",
+            "Submersible Pumps",
+            "Sewage Pumps",
+            "Booster Pumps",
+            "Shallow Well Pumps",
+            "Gear Pumps",
+            "Washer Pumps"
+        ]},
+        {
+        "heading":"MOTORS",
+        "Image":"https://blog.softinway.com/wp-content/uploads/2022/08/Motor-Cooling.jpg",
+        "type":[
+          "AC Motos",
+          "DC Motors",
+          "Induction Motors"
+          ]},
+          {
+        "heading":"CONTROL MOTOR STARTERS",
+        "Image":"https://5.imimg.com/data5/SELLER/Default/2023/4/302424785/TW/NR/XT/1479124/star-delta-motor-starter-500x500.JPG",
+        "type":[
+          "Submersible Pump Starters",
+          "Automatic Motor Starters",
+          "Manual Motor Starters"
+        ]},
+            {
+        "heading":"PUMP ACCESSORIES",
+        "Image":"https://www.metso.com/globalassets/parts-pages/slurry-pump-parts/slurry-pump-parts-1920x635.jpg?preset=preset_575x400",
+        "type":[
+          "Impeller",
+         " Shaft",
+          "Sleeve",
+          "Seals"
+        ]},
+      {
+        "heading":"FANS",
+        "Image":"https://m.media-amazon.com/images/I/51VE+aaj7RL.jpg",
+        "type":[
+          "Ceiling Fans",
+          "Exhaust Fans",
+          "Wall Fans",
+          "Pedestal Fans",
+          "Table Fans",
+          "Cooling Fans",
+          "Fans Accessories",
+          "Miscellaneous Fans"
+        ]},
+      {
+        "heading":"HEATERS",
+        "Image":"https://imgeng.jagran.com/images/2022/dec/room%20heater%20under%2020001671619266267.jpg",
+        "type":[
+          "Water Heater",
+          "Rods",
+          "Thermo Couples",
+          "RTD"
+        ]},
+      {
+        "heading":"INDUSTRIAL & DOMESTIC COOLERS",
+        "Image":"https://www.brize.in/cdn/shop/articles/9_720x_32cc3356-e2c4-4785-9d3c-457f8f90b55e_720x.jpg?v=1635292244",
+        "type":[
+          "Air Cooler",
+         " Desert Coolers"
+        ]},
+      {
+        "heading":"POWER GENERATION & TRANSFORMERS",
+        "Image":"https://www.sudhirpower.com/images/oil-type-transformer.jpg",
+        "type":[
+          "Stabilizers",
+          "Batteries",
+          "Inverter Trolleys",
+          "Soft Starters",
+          "Current Transformers",
+          "Variable Frequency Drives",
+          "Generators"
+        ]},
+      {
+        "heading":"WIRES & CABLES",
+        "Image":"https://www.salzergroup.net/image/products/wires%20&%20cable.jpg",
+        "type":[
+          "Low Tension Cables",
+          "Mounting & Cable Accessories",
+          "High Tension Cables",
+          "CCTV Cables",
+          "Communication & Networking Cables",
+          "Submersible Cables",
+          "Industrial Wires & Cables",
+          "Coaxial Cables",
+          "Telephone Cables",
+          "Solar Cables"
+        ]},
+      {
+        "heading":"SWITCHES & SOCKETS",
+        "Image":"https://img1.exportersindia.com/product_images/bc-full/2019/4/5747470/switch-sockets-wiring-accessories-1555140031-4851042.png",
+        "type":[
+          "Switches",
+         " Spike Guards",
+          "Switches & Sockets Accessories",
+          "Boxes",
+         " Plugs & Sockets",
+          "Electrical Sockets",
+          "Switch & Socket Combinations",
+          "Lamp Holder",
+          "Flexicords"
+        ]},
+      {
+        "heading":"RELAYS & CONTACTORS",
+        "Image":"https://www.elmeasure.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdoqlszv19%2Fimage%2Fupload%2Fv1683197086%2FContactors_website_3_f57b414b2d.png&w=3840&q=75",
+        "type":[
+          "Contactors",
+         " Thermal Overload Relay",
+         " Spares For Contactors",
+          "Control Relays",
+          "Plug In Relays",
+         " Electronic Timer Relay",
+         " Smart Relays",
+         " Time Delay Relays",
+          "Overload Relays",
+          "Protective Relays"
+        ]}
+    ]
+    },
+    {
+      "id": 7,
+      "ProductTitle":"PAINTS",
+      "ProductImage":"https://media.istockphoto.com/id/984342712/photo/color-paint-cans.jpg?b=1&s=612x612&w=0&k=20&c=EVmGjmiL5wUTzoFLFD54LtZhNPaQHZZSF2TH4n4t3hw=",
+      "Details":[{
+        "heading":"PAINTING TOOLS",
+        "Image":"https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F754%2Fwidth-5-inch-paint-brush-with-nylon-bristles-and-wooden-handle-weight-150gram-541.jpg&w=750&q=75",
+        "type":[
+          "Paint Sprayers",
+         " Paint Brush",
+         " Paint Rollers"
+        ]},{
+        "heading":"SURFACE PROTECTION & ADDITIVES",
+        "Image":"https://www.tech-masters.com/files/e5/9fac76359e997096c838a74365c2b6/Surface%20Protection%20%26%20Treatment%20Kopie_2000x900_10.jpg",
+        "type":[
+         " Waterproofing",
+          "Primers",
+          "Wood Coatings",
+          "Stainers",
+          "Thinners",
+          "Epoxy Coatings",
+         " Hardeners",
+          "Glass Coatings",
+         " Wall Coatings",
+          "Wall Putty",
+          "Tile Coatings"
+        ]},{
+        "heading":"PAINTS",
+        "Image":"https://surfacesreporter.com/myuploads/square/20191216055848.jpg",
+        "type":[
+            "Spray Paints",
+            "Exterior Paints",
+           " Interior Paints",
+            "Industrial Paints",
+            "Distemper Paints",
+           " Enamels"
+        ]},{
+        "heading":"CHEMICALS",
+        "Image":"https://www.soldermall.com/uploads/product/pic/zoom/pidilite-wd-40-170-g-multipurpose-spray-for-auto-maintenance-rust-remover-lubric-2341.JPG",
+        "type":[
+            "Cleaning Chemicals",
+           " Construction Chemicals",
+            "Polishes & Varnishes"
+        ]
+      }]
+    },
+    {
+      "id": 8,
+      "ProductTitle":"HARDWARE",
+      "ProductImage":"https://builtory.my/builtory-image/Q9bvO36EO/industrial-supplies-and-hardware.jpg",
+      "Details":[{
+        "heading":"LOCKS",
+        "Image":"https://5.imimg.com/data5/FU/HA/BN/SELLER-2620497/glass-door-locks.jpg",
+        "type":[
+          "Padlocks",
+          "Door Locks",
+          "Cabinet Locks",
+          "Rim Locks",
+          "Shutter Locks",
+          "Cylinder Locks"
+        ]},{
+        "heading":"DOOR HARDWARE",
+        "Image":"https://www.constructionspecifier.com/wp-content/uploads/2015/10/bigstock-Door-Handles-Locks-And-Keys-85622453.jpg",
+        "type":[
+          "Brackets",
+          "Hinges",
+          "Door Closer",
+          "Latches & Bolts",
+          "Door Stoppers",
+          "Aldrops",
+          "Door Handles",
+          "Drawer Slides",
+          "Door Knockers",
+         " Door Viewers",
+         " Door Knobs",
+        "  Door Catchers",
+         " Door Accessories",
+          "Gate Hooks"
+        ]},{
+        "heading":"FITTINGS",
+        "Image":"https://img2.exportersindia.com/product_images/bc-full/dir_111/3309104/insulator-hardware-fittings-1491827.jpg",
+        "type":[
+          "Couplings",
+         " Elbows",
+          "Tee",
+          "Male Threaded Adaptors",
+         " Pipe Plugs",
+        "  End Caps",
+          "Pipes",
+          "Female Threaded Adaptors",
+          "Ball & Brass Valves",
+          "Reducer Bush",
+          "Straps & Holders",
+          "Pipe Union",
+          "Nipples",
+          "Pipe Sockets",
+          "Flanges"
+        ]}]
+    },
+    {
+      "id": 9,
+      "ProductTitle":"LIGHTS",
+      "ProductImage":"https://images.unsplash.com/photo-1552862750-746b8f6f7f25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGlnaHRidWxifGVufDB8fDB8fHww&w=1000&q=80",
+      "Details":[{
+        "heading":"LED",
+        "Image":"https://files.creelighting.com/documents/lights-banner.png",
+        "type":[
+          "LED Flood Lights",
+          "LED Bulbs",
+          "LED Torches",
+          "LED Street Lights",
+          "LED Spot Lights",
+          "LED Panel Lights",
+         " LED Batten Lights",
+          "LED Downlights",
+        "  LED Bay Lights",
+          "LED Modules",
+          "LED Foot Lights",
+          "LED Underground Lights",
+         " LED Garden Lights",
+          "Track Lights",
+          "Concealed Lights"
+        ]},{
+        "heading":"OUTDOOR LIGHTING",
+        "Image":"https://ii1.pepperfry.com/media/catalog/product/b/l/800x880/black-mild-steel-outdoor-lighting-by-superscape-outdoor-lighting-black-mild-steel-outdoor-lighting-b-czfguh.jpg",
+        "type":[
+          "LED Flood Lights",
+          "LED Foot Lights",
+          "Street Lights",
+          "Bay Lights",
+          "Flood Lights",
+          "Garden Lights"
+        ]},{
+        "heading":"LIGHT BULBS",
+        "Image":"https://assets.justenergy.com/wp-content/uploads/2021/03/light-bulbs-types-of-different-bulbs.jpg",
+        "type":[
+          "LED Bulbs",
+          "CFL",
+          "Halogen Bulbs",
+          "High Intensity Discharge Bulbs"
+        ]},{
+        "heading":"LAMPS",
+        "Image":"https://cdn.britannica.com/88/212888-050-6795342C/study-lamp-electrical-cord.jpg",
+        "type":[
+           " Floor Lamps",
+            "Table Lamps",
+            "Lamp Shades",
+            "Night Lights",
+           " Pendant Lamps",
+            "Indoor Wall Lamps",
+            "Study Lamps",
+           " Tripod Lamps"
+        ]
+      }]
+    },
+    {
+      "id": 10,
+      "ProductTitle":"MEASUREMENTS & TESTING",
+      "ProductImage":"https://thumbs.dreamstime.com/b/industry-measurement-instrument-group-96408304.jpg",
+      "Details":[{
+        "heading":"MEASURING PRECISION TOOLS",
+        "Image":"https://www.protoolreviews.com/wp-content/uploads/2021/07/2021-07-27-08.54.19-WEBSITE.jpg",
+        "type":[
+            "Measuring Tapes",
+           " Calipers",
+            "Depth Gauges",
+            "Micrometers",
+            "Measuring Tools",
+            "Levels",
+            "Pressure Gauges",
+         "   Measuring Wheels",
+            "Spirit Levels",
+            "Dial Indicators",
+            "Magnetic Tool Setting Gauges",
+            "Bore Gauges",
+           " Edge Finders",
+            "Digital Indicators",
+            "Combination Square Sets",
+            "Protractors",
+           " Level & Protractor",
+            "Dial Calipers",
+            "Height Gauges",
+           "Pin Gauges",
+           " Surface Gauges"
+        ]},{
+        "heading":"ELECTRICAL POWER TESTING",
+        "Image":"https://testguy.net/uploads/fluke-87v-digital-multimeter-test-equipment.jpg",
+        "type":[
+            "Clamp Meters",
+            "Multimeters",
+            "Capacitor Testers",
+            "Insulation Testers",
+            "Conductivity & Temperature Meters",
+           " Voltage Detectors",
+            "Motor & Phasing Meters",
+            "Instrument Combination Kits",
+            "Digital Micro Ohm Meters",
+            "Cable Trackers",
+            "Process Calibrators",
+           " DC Power Supply",
+            "Power Analysers",
+           " Discharge Rods",
+            "High Voltage Testing",
+            "Flexible Current Probes"
+        ]},{
+        "heading":"TEMPERATURE & HUMIDITY METERS",
+        "Image":"https://www.pce-instruments.com/english/slot/2/artimg/large/pce-instruments-air-humidity-meter-pce-555-2209414_2738489.webp",
+        "type":[
+          "Thermo Hygrometer",
+          "IR Thermometers",
+         " Hydrometers"
+        ]},{
+        "heading":"LASER LEVELS",
+        "Image":"https://www.thespruce.com/thmb/X_QvrUyX3_voHk2gqIGEZ1ukA9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spr-primary-hwortock-000-d6bd9f851d0940bdae934df97e1709e9.jpg",
+        "type":[
+          "Line Lasers",
+         " Point Lasers",
+          "Combi Lasers",
+          "Rotation Lasers"
+        ]
+      }
+      ,{
+        "heading":"NON-ELECTRICAL PROPERTIES TESTING",
+        "Image":"https://ic.toolsid.com/tools-garage/pages/nonelectrical-properties-testing/nonelectrical-properties-testing_big_0.jpg",
+        "type":[
+           " Distance Meters",
+            "Moisture Meters",
+           " Tachometers",
+           " Light Meters",
+           " Pressure Meters",
+            "Tweezer",
+            "Sound Level Meters",
+            "Stroboscopes",
+            "Hardness Testers",
+            "Force Gauges",
+            "Alcohol Breath Analyzers",
+            "Stop Watches"
+        ]
+      }
+      ,{
+        "heading":"ELECTRONIC & BENCH TESTING",
+        "Image":"https://www.timeelectronics.com/calibration-benches/calbench-packages/process-instrumentation-calbenches/image/s.webp",
+        "type":[
+          "Audio Output Meters",
+          "LCR Meters",
+         " Leakage Testers",
+          "Distortion Meters",
+          "Conductivity & Pattern GeneratorsMeters",
+          "Oscilloscopes",
+          "Frequency Counter",
+          "AF RF Oscillators",
+          "Function Generators",
+          "Audio Signal Generators",
+          "Transistor Testers"
+        ]
+      }
+      ,{
+        "heading":"DETECTORS",
+        "Image":"https://cdn.moglix.com/p/24KLIy5uACuw8-xxlarge.jpg",
+        "type":[
+          "Metal Detectors"
+        ]
+      }
+    ,{
+        "heading":"MEASURING AND LAYOUT TOOLS",
+        "Image":"https://i.pinimg.com/1200x/d5/33/75/d53375ff2ce8803a81c487b8c1eefc3a.jpg",
+        "type":[
+          "Squares, Bevels and Gauges",
+          "Sine Bars"
+        ]
+      }
+    ,{
+        "heading":"AIR VELOCITY METERS",
+        "Image":"https://www.cpsproducts.com/wp-content/uploads/AM50-1.jpg",
+        "type":[
+         " Anemometers"
+        ]
+      }]
+    },
+    {
+      "id": 11,
+      "ProductTitle":"TRANSMISSION & HANDLING",
+      "ProductImage":"https://www.tonyhondakona.com/blogs/4421/wp-content/uploads/2022/11/Transm-1024x567.jpg",
+      "Details":[{
+        "heading":"MATERIAL LIFTS",
+        "Image":"https://snorkellifts.com/sites/default/files/2018-11/Snorkel%20Catalog%20images26.jpg",
+        "type":[
+          "Slings",
+          "Pulling & Lifting Machines",
+          "Lifting Clamps",
+          "Shop Cranes"
+        ]},{
+        "heading":"ROPE & FITTINGS",
+        "Image":"https://www.wireropefactory.com/img/wire-rope-turnbuckles.jpg",
+        "type":[
+          "Bow Shackle",
+          "Wire Ropes",
+         " D Shackles",
+          "Lashing Belts",
+          "Rope Clips & Buckles"
+        ]},{
+        "heading":"HOISTS & TROLLEYS",
+        "Image":"https://www.demagcranes.com/sites/default/files/styles/hero/public/media/images/40053-9_2.jpg.webp?itok=7I1LfT5i",
+        "type":[
+          "Chain Pulley Block",
+          "Electric Wire Rope Hoists",
+          "Geared Travelling Trolleys",
+          "Ratchet Lever Hoists",
+         " Electric Chain Hoists",
+          "Motor Driven Trolleys",
+          "Electric Travelling Trolleys",
+          "Pallet Trucks",
+         " Sheave Block Pulley"
+        ]},{
+        "heading":"POWER TRANSMISSION BELTS",
+        "Image":"https://cdn.skfmediahub.skf.com/api/public/0901d1968014ce80/png_highpreview_800/0901d1968014ce80_png_highpreview_800.png",
+        "type":[
+          "V Belts",
+         " Cogged Belts",
+         " FHP Belts",
+        "  Timing Belts",
+          "Power Loom Belts",
+          "Wedge Belts",
+          "Hexagonal Belts"
+        ]
+      }
+    ,{
+        "heading":"COUPLINGS, COLLARS & ADAPTERS",
+        "Image":"https://www.staffordmfg.com/wp-content/uploads/modifications-to-standard-parts-1.jpg",
+        "type":[
+          "Square Coupler",
+          "Flexible Couplings",
+          "Universal Joints",
+          "Bush Couplings",
+          "Gear Couplings"
+        ]
+      }
+      ,{
+        "heading":"COUPLINGS",
+        "Image":"https://i0.wp.com/mechstuff.com/wp-content/uploads/2018/09/coupling-types.jpg?fit=973%2C615&ssl=1&resize=1280%2C720",
+        "type":[
+          "Gear Coupling",
+          "Flexible Coupling",
+          "Pin Bush Coupling",
+          "Love Joy Coupling",
+          "Fluid Coupling",
+          "Encoder Coupling",
+          "Tyre Coupling",
+          "Resilient Coupling",
+          "HRC Coupling",
+          "Nylon Gear Coupling",
+          "Sleeve Flex Coupling"
+        ]
+      }
+      ,{
+        "heading":"BEARINGS",
+        "Image":"https://fractory.com/wp-content/uploads/2020/08/Types-of-bearings-1.jpg",
+        "type":[
+          "Ball Bearings",
+          "Roller Bearings",
+          "Plain Bearings",
+          "Flange Bearings"
+        ]
+      }]
+    },
+    {
+      "id": 12,
+      "ProductTitle":"LUBRICANTS & LAB EQUIPMENTS",
+      "ProductImage":"https://assets.efficientplantmag.com/wp-content/uploads/2020/04/2004flube_adobestock_228089326.jpg",
+      "Details":[{
+        "heading":"INDUSTRIAL LUBRICANTS",
+        "Image":"https://5.imimg.com/data5/KX/LG/NG/SELLER-4840764/industrial-lubricants.jpg",
+        "type":[
+          "Industrial Additives",
+          "Industrial Engine Oil",
+         " Industrial Grease",
+          "Hydraulic Oils",
+         " Other Lubricants"
+        ]},{
+        "heading":"LAB EQUIPMENT",
+        "Image":"https://m.media-amazon.com/images/I/81kwi5hbnnS._AC_UF1000,1000_QL80_.jpg",
+        "type":[
+           " Centrifuges",
+            "Stirrers",
+            "Spectrophotometer",
+            "Magnifiers",
+            "Shakers & Rotators",
+            "Laboratory Mixers",
+           " Photo Colorimeter",
+          "  Microscopes",
+            "Dissolution Test Apparatus",
+            "Leak Test Apparatus",
+            "Melting Point Apparatus",
+            "Disintegration Test Apparatus",
+            "Water Bath",
+            "Distilling Apparatus"
+        ]}]
+    },
+    {
+      "id": 13,
+      "ProductTitle":"HYDRAULICS & PNEUMATIC PRODUCT",
+      "ProductImage":"https://www.cedengineering.com/userfiles/hydraulics_1424112815.jpg",
+      "Details":[{
+        "heading":"PNEUMATIC TOOLS",
+        "Image":"https://www.homenish.com/wp-content/uploads/2020/12/Pneumatic-Tools.jpg",
+        "type":[
+            "Impact Wrenches",
+           " Air Compressors",
+            "Air Spray Gun",
+           " Nail Guns",
+           " Pneumatic Screwdrivers",
+            "Needle Scaler",
+            "Pneumatic Tool Accessories",
+            "Connector",
+            "Pneumatic Polisher",
+           " Air Nibbler",
+           " Ratchet Wrench",
+            "Pneumatic Cut off Tool",
+            "Air Hammers",
+            "Pneumatic drill",
+            "Pneumatic Grinder",
+            "Riveter",
+            "Sanders"
+        ]},{
+        "heading":"PNEUMATIC CYLINDERS",
+        "Image":"https://i.ytimg.com/vi/hmz1h5fk2bI/maxresdefault.jpg",
+        "type":[
+          "Cylinder Mounting & Repair Kits",
+          "Standard Cylinder",
+          "Compact Cylinder",
+          "Round Cylinder",
+          "Hydro Pneumatic Cylinder",
+          "Proximity Switch for magnetic cylinder",
+          "Rotary Cylinder",
+          "Guided Cylinder"
+        ]},{
+        "heading":"COMPRESSED AIR TREATMENT",
+        "Image":"https://www.almig.de/fileadmin/user_upload/Produkte/Druckluftaufbereitung/Keyvisual_Aufbereitung.png",
+        "type":[
+          "Pneumatic Filters",
+          "FRLs",
+          "Pressure Gauge",
+          "Automatic Drain Valve",
+         " Moisture Separator",
+          "Pneumatics Pressure Regulator"
+        ]},{
+        "heading":"PNEUMATIC CONTROL VALVE",
+        "Image":"https://kimray.com/sites/default/files/styles/video_thumbnail/public/uploads/training-demos/Which-Parts-of-a-2020-07-Pneumatic-Control-Valve-Do-I-Need_.jpg?itok=D9Ku4W7a",
+        "type":[
+          "Pneumatic Solenoid Valve",
+          "Pneumatic Flow Control Valve",
+          "Process Valves",
+          "Pilot operated Valve",
+         " Quick Exhaust Valve",
+          "Valve Manifold",
+          "Manual Valves",
+          "Rotary Air Lock Valves",
+          "Shuttle Valve",
+          "Pneumatic Butterfly Valve",
+          "Check Valve & NRV",
+          "Valve Accesories",
+          "Proportional Pressure Control Valve"
+        ]
+      }
+      ,{
+        "heading":"CONNECTIONS",
+        "Image":"https://www.hoseassemblytips.com/wp-content/uploads/2020/06/AutomationDirect-pneumatic-fittings.jpg",
+        "type":[
+          "Pneumatic Fittings",
+         " Pneumatic Pipes & Coils",
+          "Pneumatic Couplers",
+          "Silencers"
+        ]
+      },{
+        "heading":"HYDRAULIC ACCESSORIES",
+        "Image":"https://www.icfluid.com/wp-content/uploads/2022/08/Spradow_Produkte-c7270c3a-1920w.jpg-1024x509.webp",
+        "type":[
+           " Gaskets",
+            "Pneumatic Tubing & Accessories",
+            "Coil Tubes",
+            "Hose Reels",
+           " Strainers",
+           " Plumbing valves",
+            "Fusible Plugs",
+            "Liquid Level Gauges & Sight Indicators",
+            "Water Gauges",
+            "VALVES"
+        ]
+      },{
+        "heading":"HYDRAULIC VALVES",
+        "Image":"https://yukeneurope.com/wp-content/uploads/2018/07/01-MSW-scaled.jpg",
+        "type":[
+           " Solenoid Valves",
+            "Flow Control Valves",
+          "  Check Valves",
+            "Push Type Fittings",
+            "Butterfly Valves",
+            "Relief Valves",
+            "Gate Valves",
+           " Reflux Valves",
+           " Ball Valves",
+           " Piston Valves",
+            "Globe Valves"
+        ]
+      }]
+    },
+    {
+      "id": 14,
+      "ProductTitle":"ABRASIVE & ADHESIVE",
+      "ProductImage":"https://surfaceprep.com/wp-content/uploads/2019/11/Grinding-Discs.jpg",
+      "Details":[{
+        "heading":"ABRASIVES",
+        "Image":"https://www.nortonabrasives.com/sites/sga.na.com/files/cpd-abrasives_0.jpg",
+        "type":[
+          "Cutoff & Chopsaw Wheels",
+          "Grinding Wheels",
+          "Flap Discs",
+          "DC/AG Grinding Wheels",
+          "Abrasive Wheels & Belts",
+          "Sanding Disc, Belts & Papers",
+          "Dressing Tools",
+          "Sharpening Stones",
+          "Finishing Sticks",
+          "Abrasive Wheels",
+         " Buffing & Polishing Wheels"
+        ]},{
+        "heading":"INDUSTRIAL ADHESIVES",
+        "Image":"https://5.imimg.com/data5/RX/KU/BX/SELLER-24608976/industrial-adhesive-500x500.jpg",
+        "type":[
+          "Joint Sealants",
+         " Retaining Compound",
+          "Gasket Makers",
+          "Flange Sealants",
+          "Thread lockers",
+          "Gasket Sealants",
+         " Thread Sealants",
+         " Gasket Eliminators",
+          "Urethane Sealant"
+        ]},{
+        "heading":"GLUES & CEMENTS",
+        "Image":"https://images.aboutmechanics.com/epoxy-and-resin.jpg",
+        "type":[
+          "Instant Adhesive",
+          "Surface Insensitive",
+          "Glues",
+          "Structural Adhesive"
+        ]
+      }
+      ,{
+        "heading":"EPOXY ADHESIVES",
+        "Image":"https://m.media-amazon.com/images/I/71yAsgCx5YL._AC_UF1000,1000_QL80_.jpg",
+        "type":[
+         " Metal Filled Epoxies",
+          "Tile Epoxy Adhesives"
+        ]
+      }]
+    },
+    {
+      "id": 15,
+      "ProductTitle":"WELDING & SAFETY",
+      "ProductImage":"https://www.metalsupermarkets.co.uk/wp-content/uploads/2021/05/shutterstock_791080666.jpg",
+      "Details":[{
+        "heading":"WELDING MACHINES",
+        "Image":"https://m.media-amazon.com/images/I/61qz9c1IBhL.jpg",
+        "type":[
+           " Arc Welding Machines",
+            "MIG Welding Machines",
+            "Cutting Machines",
+            "TIG Welding Machines",
+            "Submerged Arc Welding Machines",
+            "Spot Welding Machines",
+            "Portable Welding Generators",
+           " Inverter Welding Machines"
+        ]},{
+        "heading":"WELDING ACCESSORIES",
+        "Image":"https://waterwelders.com/wp-content/uploads/2019/02/welding-safety-equipments.jpg",
+        "type":[
+            "Electrodes",
+            "Electrode Holders",
+            "Welding Accessories Sets",
+           " Oxygen Regulators",
+            "Gas Cutting Nozzles",
+           " Welding Cables",
+            "Earth Clamps",
+            "Hose Pipes",
+            "Blow Pipes",
+            "Flash Back Arrestors",
+            "Testing Gauges",
+            "Gas Regulators",
+            "Gas Cutting Torches",
+            "Gas Flow Meters",
+            "Welding Transformers",
+            "Electrode Drying Oven",
+           " Welding Screens",
+           " Heaters",
+            "Economisers",
+            "Welding Shields",
+            "Welding Glove"
+        ]},{
+        "heading":"WELDING REGULATORS",
+        "Image":"https://5.imimg.com/data5/SELLER/Default/2023/2/OF/LW/XY/3035989/co2-welding-regulator.JPG",
+        "type":[
+          "Oxygen Regulators",
+          "Nitrogen Regulators",
+          "Carbon Di Oxide Regulator",
+          "Argon Regulators",
+          "Gas Regulators",
+          "Acetylene Regulators",
+          "Hydrogen Regulators",
+          "Special Application Regulators"
+        ]},{
+        "heading":"SOLDERING EQUIPMENT",
+        "Image":"https://m.media-amazon.com/images/I/71aWleaM-FL.jpg",
+        "type":[
+          "Soldering Iron",
+          "Soldering Accessories",
+          "Soldering Station",
+          "Soldering Bits",
+          "Soldering Stand",
+          "Soldering Element",
+          "Soldering Spares",
+         " Smoke Absorber"
+        ]
+      }
+      ,{
+        "heading":"WELDING EQUIPMENT",
+        "Image":"https://cdn.thefabricator.com/a/the-great-debate-transformers-or-inverters-1494265406.jpg?size=1000x",
+        "type":[
+          "Welding Rectifiers",
+          "Welding Transformers",
+          "Electrode Drying Oven"
+        ]
+      }
+      ,{
+        "heading":"WELDING TOOLS",
+        "Image":"https://weldguru.com/wp-content/uploads/welding-tool-list.jpg",
+        "type":[
+          "Welding Tools",
+          "Dye Penetrants & Inspection Kits"
+        ]
+      }
+      ,{
+        "heading":"SAFETY PRODUCTS",
+        "Image":"https://media.istockphoto.com/id/165829163/photo/personal-protective-workwear-shoot-from-above-on-diamondplate-background.jpg?s=612x612&w=0&k=20&c=Fun7SJYAgNAXCBCnvjiwxGkm83EcYpfHJFDYQt6-A8Y=",
+        "type":[
+            "Safety Shoes",
+            "Safety Goggles",
+            "Safety Helmet",
+            "Safety Jackets",
+            "Resipiratory Mask",
+           " Safety Gloves",
+            "Face Shields",
+            "Disposable Work Wear Products",
+            "Ear Protectors",
+            "Eye Wash Showers",
+            "Rain Coats",
+            "Safety Battons",
+            "Water Safety Products",
+            "Fire Extinguisers"
+        ]
+      }
+      ,{
+        "heading":"FALL PROTECTION",
+        "Image":"https://keesafety.in/media/zaogo4i0/horizontal-lifeline-system.jpg?anchor=center&mode=crop&width=1200&height=630",
+        "type":[
+           " Safety Harness",
+            "Safety Belts",
+            "Safety Nets",
+           " Rope Access Equipment",
+            "Safety Hooks",
+            "Fall Arresters",
+           " Safety Kit"
+        ]
+      }]
+    }
+  ]
+}
