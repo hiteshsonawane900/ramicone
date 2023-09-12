@@ -66,7 +66,10 @@ const { isOpen,onOpen, onClose} = useDisclosure()
             position={'relative'}>
             <Heading fontWeight={750}  mt={['20px','20px','20px']} fontSize={[  '3xl', '4xl', '5xl' ]}  >
               <Text  color={'white'} >
-              THE ONE STOP SHOP FOR ALL KIND OF INDUSTRIAL CONSUMABLES AND 
+              THE ONE STOP SOLUTION FOR ALL KIND OF
+              </Text>
+              <Text  color={'red'} >
+              INDUSTRIAL CONSUMABLES AND 
               </Text>{' '}
               <Text  color={'red'} >
               FIRE FIGHTING ACCESSORIES.

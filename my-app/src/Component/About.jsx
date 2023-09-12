@@ -65,10 +65,12 @@ export default function About() {
     <Box>
     <Box p={4} bgImage={ServiceBG}>
       <Stack minH={'100vh'} direction={{ base: 'column', md: 'row' }} bgImage={ServiceBG}>
-         <Flex flex={1}>
+         <Flex flex={1} justifyContent={'center'} m={'auto'} alignContent={'center'} >
           <Image
             alt={'Login Image'}
             objectFit={'cover'}
+            w={'60%'}
+            h={'60%'}
             src={Gear}
           />
         </Flex>
@@ -139,7 +141,7 @@ export default function About() {
        pl={'30px'}
        pr={'30px'}
        _hover={{bgColor:'red.500'}}
-        >Get Started</Button>
+        >Get Quote</Button>
         <Modal isOpen={isOpen} onClose={onClose}>
           <Box>
         <ModalOverlay />

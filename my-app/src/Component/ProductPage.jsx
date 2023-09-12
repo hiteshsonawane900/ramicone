@@ -33,9 +33,10 @@ const ProductPage = ({ elem }) => {
         <Heading
           lineHeight={1.1}
           fontWeight={600}
-          fontSize={{ base: '3xl', sm: '4xl', lg: '4xl' }}>
+          fontSize={{ base: '3xl', sm: '3xl', lg: '3xl' }}>
           <Text
             as={'span'}
+            fontWeight={700}
             position={'relative'}
             _after={{
               content: "''",
@@ -44,7 +45,7 @@ const ProductPage = ({ elem }) => {
               position: 'absolute',
               bottom: 1,
               left: 0,
-              bg: 'red.400',
+              // bg: 'red.400',
               zIndex: -1,
             }}>
             {elem.heading}
